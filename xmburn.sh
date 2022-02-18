@@ -19,7 +19,7 @@ fi
 #This section defines wallets and pool URLs
 case "$1" in
         nh)
-            username="3HnAGRJdZ9ncdtsT8QDSTSHQnDmq1X39dz.$name"
+            username="3Lb7fPzNgAveb7GSa8vtZ7jMYnxde5EZiA.$name"
 	    url="randomxmonero.usa.nicehash.com:3380"
 	    args="--algo="rx/0" --url=$url --user=$username --pass="x" --randomx-1gb-pages --donate-level=40 --print-time=500"
             ;;
